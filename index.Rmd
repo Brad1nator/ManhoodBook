@@ -50,4 +50,4 @@ output:
 
 ------------------------------------------------------------------------
 
-  This book is a labor of love which has been developed through many years of research and anecdotal experiences. I want to personally thank Dynel and Caleb for their deep thoughts and questions which have contributed to the content of this book. Thank you to all the contributors who made this book possible and the many lives that have and will be changed for the better because of it.\
+  This book is a labor of love which has been developed through many years of research and anecdotal experiences. I want to personally thank my friends, Dynel and Caleb, for their deep thoughts and questions which have contributed to the content of this book. Thank you to all the contributors who made this book possible and the many lives that have and will be changed for the better because of it.\
